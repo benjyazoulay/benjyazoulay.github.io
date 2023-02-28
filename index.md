@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<img class="profile-picture" src="picture.jpg" width="400">
+
 Historien nouvelle génération. J'ai publié une [biographie d'Abel Bonnard aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html). J'ai développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) avec [Benoît de Courson](https://regicid.github.io/).
 
 ## Articles de recherche
