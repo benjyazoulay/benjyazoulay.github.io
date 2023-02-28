@@ -1,4 +1,4 @@
-Historien nouvelle génération. J'ai publié une [biographie d'Abel Bonnard aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html). Avec Benoît de Courson, j'ai développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram).
+Historien nouvelle génération. J'ai publié une [biographie d'Abel Bonnard aux éditions Perrin](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html). J'ai développé le logiciel de lexicométrie [Gallicagram](https://shiny.ens-paris-saclay.fr/app/gallicagram) avec [Benoît de Courson](https://regicid.github.io/).
 
 ## Articles de recherche
 - [Benoît de Courson, Benjamin Azoulay, Clara de Courson, Laurent Vanni et Étienne Brunet, « Gallicagram : les archives de presse sous les rotatives de la statistique textuelle », Corpus, 2023](https://doi.org/10.4000/corpus.7944)
@@ -8,8 +8,10 @@ Historien nouvelle génération. J'ai publié une [biographie d'Abel Bonnard aux
 - [« Entretien avec Benjamin Azoulay », Nicolas Ragonneau, Proustonomics, 31 janvier 2023](https://proustonomics.com/entretien-avec-benjamin-azoulay/)
 
 
-## Projets
-
+## Projets en cours
+- Sociologie de la criminalité dans le département du Var
+- La représentation graphique des index en histoire
+- Proustographies
 
 
 ## A propos du livre _Abel Bonnard, Plume de la Collaboration_
