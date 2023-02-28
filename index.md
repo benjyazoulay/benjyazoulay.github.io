@@ -10,6 +10,8 @@ Historien nouvelle génération. J'ai publié une [biographie d'Abel Bonnard aux
 
 ## Projets
 
+
+
 ## A propos du livre _Abel Bonnard, Plume de la Collaboration_
 #### Presse
 - [« L'histoire d'un "bon à rien" », Denis Lefebvre, Historia, janvier 2023, p. 83](https://www.historia.fr/biographies-historiques/lhistoire-dun-%C2%AB-bon-%C3%A0-rien-%C2%BB)
@@ -37,3 +39,6 @@ Historien nouvelle génération. J'ai publié une [biographie d'Abel Bonnard aux
 
 #### Invitations
 - [Festival de la Biographie de Nîmes, 27-29 janvier 2023](https://fr.calameo.com/read/0069518270c4f77d9e0d0)
+
+
+
