@@ -22,7 +22,7 @@ Historien nouvelle génération. J'ai publié une [biographie d'Abel Bonnard aux
 - [« Abel Bonnard, du symbolisme au fascisme », Bernard Quiriny, L'Opinion, 25 janvier 2023, p. 8](https://www.lopinion.fr/o2-week-end/abel-bonnard-du-symbolisme-au-fascisme-la-critique-de-bernard-quiriny)
 - « Un poète engagé sur la mauvaise voie », Philippe Maxence, Le Figaro Magazine, 3 février 2023, p. 86
 - [« Abel Bonnard, un poète égaré », Daniel Fortin et Henri Gibier, Les Échos Week-end, 3 février 2023, p. 54](https://www.lesechos.fr/weekend/livres-expositions/de-pierre-loti-au-couple-einstein-secrets-et-passions-de-10-personnages-remarquables-1903263)
-- [« Le naufrage d’une intelligence », Nicolas Brimo, Le Canard enchaîné, 8 février 2023, p. 6
+- « Le naufrage d’une intelligence », Nicolas Brimo, Le Canard enchaîné, 8 février 2023, p. 6
 - [« L’itinéraire d’un bon Aryen », Laurent Lemire, L’Obs, 9 au 15 février 2023, p. 77](https://www.nouvelobs.com/bibliobs/20230211.OBS69443/katie-kitamura-christine-orban-mohamed-mbougar-sarr-les-livres-de-la-semaine-a-ne-pas-rater.html)
 - [« Abel Bonnard, plus nazi que les nazis », Denis Cosnard, Le Monde des Livres, 10 février 2023, p. 2](https://www.lemonde.fr/livres/article/2023/02/12/abel-bonnard-plume-de-la-collaboration-de-benjamin-azoulay-plus-nazi-que-les-nazis_6161509_3260.html)
 - [« Abel Bonnard bon pour la collaboration », L’OURS, Denis Lefebvre, février 2023, p. 5-6](https://www.lours.org/lours-525-fevrier-2023-se-preparer-a-une-societe-vieillissante/)
