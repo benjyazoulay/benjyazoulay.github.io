@@ -1,1 +1,1 @@
-< a href="https://babelgallery.org/virtual-art-gallery/" > Galerie virtuelle < /a >.
+[Galerie virtuelle](https://babelgallery.org/virtual-art-gallery)
