@@ -1,1 +1,1 @@
-[Galerie virtuelle](https://babelgallery.org/virtual-art-gallery)
+[Galerie virtuelle](https://babelgallery.org/virtual-art-gallery/build)
